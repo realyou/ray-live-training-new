@@ -14,8 +14,11 @@
 
 `git clone https://git.sr.ht/~hyphaebeast/ray-live-training`
 
-* slides [[md](slides.md)][[pdf](slides.pdf)]
-* code [[notebook.ipynb](notebook.ipynb)]
+* [homepage](https://sr.ht/~hyphaebeast/ray-live-training/)
+* [forum/mailing list](https://lists.sr.ht/~hyphaebeast/ray-live-training)
+* [git repository](https://git.sr.ht/~hyphaebeast/ray-live-training)
+    * slides [[md](slides.md)][[pdf](slides.pdf)]
+    * code [[notebook.ipynb](notebook.ipynb)]
 
 ## Getting started
 
@@ -34,7 +37,7 @@ It is meant to be a collaborative forum:
 * For issues/bugs or fixes
 * For anything else you want to ask Jonathan
 
-You may subscribe to [the list](https://lists.sr.ht/~hyphaebeast/ray-live-training) by emailing [~hyphaebeast/ray-live-training+subscribe@lists.sr.ht](mailto:~hyphaebeast/ray-live-training+subscribe@lists.sr.ht). You may unsubscribe with `+unsubscribe`. You may post new threads to this list by writing to the address with no `+` command.
+You may subscribe to the list by emailing [~hyphaebeast/ray-live-training+subscribe@lists.sr.ht](mailto:~hyphaebeast/ray-live-training+subscribe@lists.sr.ht). You may unsubscribe with `+unsubscribe`. You may post new threads to this list by writing to the address with no `+` command.
 
 Before posting, please read:
 
