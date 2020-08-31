@@ -41,3 +41,7 @@ Before posting, please read:
 * the Code of Conduct 👉 https://hyphaebeast.club/code-of-conduct/
 * the mailing list etiquette 👉 https://man.sr.ht/lists.sr.ht/etiquette.md
 * the mailing list guide 👉 https://man.sr.ht/lists.sr.ht/
+
+## LICENSE
+
+[Zero clause BSD](LICENSE) (effectively public domain). Do whatever you want....
