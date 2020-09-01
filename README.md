@@ -18,7 +18,7 @@
 * [forum/mailing list](https://lists.sr.ht/~hyphaebeast/ray-live-training)
 * [git repository](https://git.sr.ht/~hyphaebeast/ray-live-training)
     * slides [[md](slides.md)][[pdf](slides.pdf)]
-    * code [[notebook.ipynb](notebook.ipynb)]
+    * code [[ipynb](notebook.ipynb)][[html](https://nbviewer.jupyter.org/urls/git.sr.ht/~hyphaebeast/ray-live-training/blob/refs/heads/master/notebook.ipynb)][![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.sr.ht%2F~hyphaebeast%2Fray-live-training/master?filepath=notebook.ipynb)
 
 ## Getting started
 
